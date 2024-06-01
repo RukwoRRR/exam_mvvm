@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w9KT+JY+PBvkwsh6QpFtQsNaLGUzyyIctWxfVWLxJdFpzNoJH+0+A9n2QI5O9tSK5SUBKIHB317LRn+PG0IUNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RukwoRRR\\Source\\Repos\\exam_preparing\\exam_preparing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RukwoRRR\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\RukwoRRR\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
